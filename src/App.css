@@ -1,0 +1,31 @@
+.app-header {
+  text-align: center;
+  padding: 10px;
+}
+
+.header {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+
+.app-body {
+  text-align: center;
+  padding: 10px;
+}
+
+textarea {
+  margin: 20px;
+}
+
+select {
+  font-size: small;
+  padding: 8px;
+  width: 16cm;
+  outline: none;
+}
+
+button {
+  font-size: larger;
+  padding: 10px;
+  background-color: rgb(170, 209, 91);
+}
