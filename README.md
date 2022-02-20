@@ -1,3 +1,3 @@
 # react-translator
 
-### Simple translator app using ReactJS + Axios + LibreTranslate API (https://github.com/LibreTranslate/LibreTranslate)
+### Simple translator app using Vite + ReactJS + Axios + LibreTranslate API (https://github.com/LibreTranslate/LibreTranslate)
